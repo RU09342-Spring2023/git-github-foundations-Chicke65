@@ -1,6 +1,6 @@
 # :wave: The Basics of GitHub 
 
-## Name: Anthony Chicketetano
+## Name: Anthony Chicketetano Chickey Chickentaco
 
 ## 🤓 Course overview and learning outcomes 
 
